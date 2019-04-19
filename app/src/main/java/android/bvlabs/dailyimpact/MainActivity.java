@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     }
     
     //This is a comment to test the Git pull process from Android Studio.
-    
-    //Another day, another comment.
+    public String timMethod(){
+
+    }
 }
