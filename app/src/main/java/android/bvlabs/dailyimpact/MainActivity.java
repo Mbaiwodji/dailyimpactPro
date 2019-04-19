@@ -20,4 +20,7 @@ public class MainActivity extends AppCompatActivity {
     //This is a comment to test the Git pull process from Android Studio.
     
     //Another day, another comment.
+    
+    //Another day, another method
+    public void getHome(){}
 }
