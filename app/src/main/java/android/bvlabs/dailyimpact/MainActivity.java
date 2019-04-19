@@ -16,4 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
         return "Mbaiwodji Bienvenue";
     }
+    
+    //This is a comment to test the Git pull process from Android Studio.
 }
